@@ -13,8 +13,8 @@ Technical lead for MTN's Mobile Money implementation \& upgrade.
 Designed FORTRAN to MSSQL data migration tool using VB.Net \& SQL.
 
 ## HieTML:
-System integrattion testing for MySQL \& PostgreSQL connectors.
+Performed integrattion testing for MSSQL \& PostgreSQL connectors with HeiTML Language.
 
 ## Web2SMS:
-Developed a website  to send free SMS to Mobiles [hatwib.4t.com](http://smsafreeca.blogspot.com/2005/07/sms-sites.html).
+Developed a website with CGI & HTML to send free SMS to Mobiles [(hatwib.4t.com - Inactive)](http://smsafreeca.blogspot.com/2005/07/sms-sites.html).
 
