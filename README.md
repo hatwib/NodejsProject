@@ -1,7 +1,7 @@
 # Projects and StartUps
 
 ## Wi-Fi 2FA: 
-Crowd sourcing-based two factor authentication module.
+Developed a mobile weighting module for building RSS maps by crowdsourcing data from smartphones. Invited to present our findings at the 2020 International Conference on Computing, Networking and Communications (ICNC), February 17-20, 2020 in Big Island, HI, USA. [Conference](https://edas.info/web/icnc20/program.html).
 
 ## MHub
 Designed pattern recognition algorithms for a material database in J2EE.
